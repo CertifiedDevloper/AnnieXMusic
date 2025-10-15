@@ -20,7 +20,7 @@ motor
 nekosbest
 numpy
 opencv-python
-pillow==11.3.0
+pillow==12.0.0
 psutil
 ntgcalls==2.0.6
 py-tgcalls==2.2.8
